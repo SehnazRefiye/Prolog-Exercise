@@ -1,10 +1,3 @@
-/*
-Refiye Şehnaz Yıldırım
-171805012
-Final Exam source code 
-23.01.2021
-*/
-
 % father(X, Y): X is Y's father.
 father(ahmet,hasan).
 father(ahmet,mustafa).
